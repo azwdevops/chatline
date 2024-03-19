@@ -2,13 +2,13 @@
 
 => View screenshots below
 
-![alt text](chatline_1.png) | ![alt text](chatline_2.png)
+![alt text](chatline_1.png) ![alt text](chatline_2.png)
 
-![alt text](chatline_3.png) | ![alt text](chatline_4.png)
+![alt text](chatline_3.png) ![alt text](chatline_4.png)
 
-![alt text](chatline_5.png) | ![alt text](chatline_6.png)
+![alt text](chatline_5.png) ![alt text](chatline_6.png)
 
-![alt text](chatline_7.png) | ![alt text](chatline_8.png)
+![alt text](chatline_7.png) ![alt text](chatline_8.png)
 
 #### How to run the project
 
