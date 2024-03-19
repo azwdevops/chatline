@@ -79,7 +79,7 @@ const Login = () => {
             onChange={handleChange}
           />
 
-          <button type="submit">Register</button>
+          <button type="submit">Login</button>
           <span>
             Don't have an account? <Link to="/register">Register</Link>
           </span>
